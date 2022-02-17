@@ -7,7 +7,7 @@ function Home() {
     <div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Home</h1>
+        <h1>Home....</h1>
       </header>
     </div>
   );
